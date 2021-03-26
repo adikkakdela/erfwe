@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<img src="index.jpeg">
+<img src="index.jpg">
 	<h2 style="color:red "> Profile<h2> 
 	<p style="color:orange">Name: Adil <p> 		<p style="color:blue "> Surname: Esengeldiev </p> 
 		<p style="color:green "> Age: 18 </p> 
